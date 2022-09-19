@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_browse" type="id" />
+    <item name="btn_contact" type="id">contact</item>
+    <item name="btn_call_log" type="id">Call log</item>
+    <item name="btn_gallery" type="id">Gallery</item>
+    <item name="btn_camera" type="id">Camera</item>
+    <item name="btn_alarm" type="id">Alarm</item>
+    <item name="txt_call" type="id">Call</item>
+</resources>
